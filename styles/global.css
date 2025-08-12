@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #c6006d;
+    --primary-dark: #a30059;
+    --primary-light: #ff4ba8;
+    --accent: #ffcc00;
+    --accent-dark: #e6b800;
+    --accent-light: #ffe066;
+    --text-on-primary: #ffffff;
+    --text-on-accent: #000000;
+    --background-light: #ffffff;
+    --background-dark: #121212;
+    --card-light: #ffffff;
+    --card-dark: #1e1e1e;
+    --card-border-light: #eaeaea;
+    --card-border-dark: #333333;
+    --text-light: #333333;
+    --text-dark: #f0f0f0;
+    --text-muted-light: #666666;
+    --text-muted-dark: #aaaaaa;
+    --transition-speed: 0.3s;
+    --container-width: 1200px;
+    --header-height: 70px;
+    --border-radius: 12px;
+    --shadow-light: 0 4px 20px rgba(0, 0, 0, 0.08);
+    --shadow-dark: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+a {
+    text-decoration: none;
+    color: var(--text-light);
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    /* background-color: #f2f2f2; */
+}
