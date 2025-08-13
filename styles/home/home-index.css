@@ -1,3 +1,7 @@
+@import url('styles/home/home-global.css');
+@import url('styles/home/home-header.css');
+@import url('styles/home/home-main.css');
+
 @import url(styles/home/home-global.css);
 @import url(styles/home/home-header.css);
 @import url(styles/home/home-main.css);
