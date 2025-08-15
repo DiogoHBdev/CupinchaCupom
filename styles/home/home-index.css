@@ -2,9 +2,9 @@
 @import url('styles/home/home-header.css');
 @import url('styles/home/home-main.css');
 
-@import url(/styles/home/home-global.css);
-@import url(/styles/home/home-header.css);
-@import url(/styles/home/home-main.css);
+@import url(/home-global.css);
+@import url(/home-header.css);
+@import url(/home-main.css);
 
 @import "styles/home/home-global.css";
 @import "styles/home/home-header.css;";
