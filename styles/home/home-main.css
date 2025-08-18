@@ -49,6 +49,11 @@ main {
     border-radius: 10px;
 }
 
+.logo-block {
+    display: flex;
+    border-radius: 20px;
+}
+
 .text-mid {
     display: flex;
     width: 100%;
