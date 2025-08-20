@@ -125,7 +125,7 @@ main {
     width: 100%;
     height: 100%;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
 }
 .text-primary-cupon-card {
     display: flex;
