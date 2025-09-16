@@ -1,0 +1,80 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    width: 70%;
+    /* align-items: center; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-loja {
+    display: flex;
+    /* width: 70%; */
+    height: 300px;
+    /* background-color: aqua; */
+    align-items: center;
+    justify-content: space-between;
+    /* flex-direction: column; */
+    width: 60%;
+}
+
+.text-loja {
+    flex-direction: column;
+}
+
+.cupon-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.cupon-card {
+    display: flex;
+    margin: 25px;
+    border: 1px solid black;
+    border-radius: 10px;
+    /* width: 70%; */
+    height: 120px;
+    /* justify-content: center; */
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.cupon-card-logo {
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
+
+.image-cupon-card {
+    display: flex;
+    overflow: hidden;
+}
+
+/* .text-cupon-card {
+
+} */
+
+.buttom-cupon-card {
+    display: flex;
+    width: 200px;
+    height: 80px;
+    background-color: var(--accent);
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
