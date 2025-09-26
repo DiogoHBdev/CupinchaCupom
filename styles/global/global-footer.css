@@ -33,6 +33,7 @@ footer {
     flex-direction: column;
     align-self: center;
     color: white;
+    font-size: 1.4rem;
 }
 
 .sub-conteudo {
@@ -53,6 +54,7 @@ footer {
     flex-direction: column;
     align-self: center;
     color: white;
+    font-size: 1.4rem;
 }
 
 .sub-categorias {
@@ -73,6 +75,7 @@ footer {
     flex-direction: column;
     align-self: center;
     color: white;
+    font-size: 1.4rem;
 }
 
 .sub-contato {
