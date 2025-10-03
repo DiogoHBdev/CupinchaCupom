@@ -17,6 +17,8 @@
         font-size: 1rem;
     }
 
+    
+
     .subheader-container {
         display: flex;
         height: 300px;
@@ -40,7 +42,7 @@
     .buttom-subheader {
         display: flex;
         font-size: 0.6rem;
-        width: 260px;
+        width: 80%;
     }
 
     .top-main {
@@ -91,12 +93,15 @@
     
     .text-cupincha {
         display: flex;
+        margin-top: 30px;
         font-size: 1rem;
-        width: 50%;
+        width: 80%;
+        height: 100px;
      }
 
     .conteudo {
         display: flex;
+        margin-top: 30px;
         gap: 5px;
         font-size: 0.6rem;
         height: 140px;
@@ -113,6 +118,7 @@
 
     .categorias {
         display: flex;
+        margin-top: 30px;
         gap: 5px;
         font-size: 0.6rem;
         height: 140px;
@@ -129,9 +135,10 @@
 
     .contato {
         display: flex;
+        margin-top: 30px;
         gap: 5px;
         font-size: 0.6rem;
-        height: 140px;
+        height: 100px;
         justify-content: space-between;
     }
 
@@ -152,5 +159,7 @@
 
     .text-sub-footer {
         text-align: center;
+        margin-top: 30px;
+        font-size: 0.8rem;
     }
 }
